@@ -1,0 +1,46 @@
+body
+{
+    background: grey;
+}
+
+
+
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    
+    border:1px solid rgb(87, 2, 2);
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+
+#textbox
+{
+    width: 300px;
+}
+#result
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+
+.footer
+{
+    position: fixed;
+}
+h1
+{
+     font-family: cursive; font-style: italic; font-weight: bold; 
+    }
+
+    h4 { color:red; }
